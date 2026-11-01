@@ -1,0 +1,8 @@
+{
+  "name": "Remix Remix Juego didacticos de enseñanza",
+  "description": "Un prototipo digital del juego de cartas Póker del Octeto, donde la química se mezcla con el Texas Hold\u0027em.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
